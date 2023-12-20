@@ -1,0 +1,1 @@
+export { default as SingleCate } from './SingleCate'
